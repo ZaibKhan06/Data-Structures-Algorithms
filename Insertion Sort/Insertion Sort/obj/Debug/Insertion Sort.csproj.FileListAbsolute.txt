@@ -1,0 +1,6 @@
+C:\Users\jahan\source\repos\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe.config
+C:\Users\jahan\source\repos\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe
+C:\Users\jahan\source\repos\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.pdb
+C:\Users\jahan\source\repos\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\jahan\source\repos\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.exe
+C:\Users\jahan\source\repos\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.pdb

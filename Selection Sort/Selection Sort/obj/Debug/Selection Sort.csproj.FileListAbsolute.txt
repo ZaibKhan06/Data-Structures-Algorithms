@@ -1,0 +1,7 @@
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe.config
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\obj\Debug\Selection Sort.exe
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\obj\Debug\Selection Sort.pdb
+C:\Users\jahan\source\repos\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\jahan\source\repos\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\jahan\source\repos\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\jahan\source\repos\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\jahan\source\repos\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\jahan\source\repos\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\jahan\source\repos\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb
